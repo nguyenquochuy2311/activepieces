@@ -40,10 +40,10 @@
       "@activepieces/piece-bannerbear": [
         "packages/pieces/bannerbear/src/index.ts"
       ],
+      "@activepieces/piece-beamer": ["packages/pieces/beamer/src/index.ts"],
       "@activepieces/piece-bettermode": [
         "packages/pieces/bettermode/src/index.ts"
       ],
-      "@activepieces/piece-beamer": ["packages/pieces/beamer/src/index.ts"],
       "@activepieces/piece-binance": ["packages/pieces/binance/src/index.ts"],
       "@activepieces/piece-bonjoro": ["packages/pieces/bonjoro/src/index.ts"],
       "@activepieces/piece-box": ["packages/pieces/box/src/index.ts"],
@@ -132,6 +132,9 @@
       "@activepieces/piece-gotify": ["packages/pieces/gotify/src/index.ts"],
       "@activepieces/piece-gravityforms": [
         "packages/pieces/gravityforms/src/index.ts"
+      ],
+      "@activepieces/piece-hacker-news": [
+        "packages/pieces/hacker-news/src/index.ts"
       ],
       "@activepieces/piece-hackernews": [
         "packages/pieces/hackernews/src/index.ts"
